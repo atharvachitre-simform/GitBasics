@@ -1,0 +1,4 @@
+This branch is going to be merged in feature branch.
+
+I am going to use rebase with squash.
+
